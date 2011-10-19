@@ -1,0 +1,50 @@
+[
+    {
+            "time": "8:15am - 9:00am",
+            "id": "0",
+            "sessions": [{
+            	"title":"A session title",
+            	"presenter":"Some Schlub"
+            },
+            {
+            	"title":"A session title",
+            	"presenter":"Some Schlub"
+            },
+            {
+            	"title":"A session title",
+            	"presenter":"Some Schlub"
+            },
+            {
+            	"title":"A session title",
+            	"presenter":"Some Schlub"
+            },
+            {
+            	"title":"A session title",
+            	"presenter":"Some Schlub"
+            }]
+        },
+    	{
+        	"time": "9:15am - 10:00am",
+            "id": "0",
+            "sessions": [{
+            	"title":"A session title",
+            	"presenter":"Some Schlub"
+            },
+            {
+            	"title":"A session title",
+            	"presenter":"Some Schlub"
+            },
+            {
+            	"title":"A session title",
+            	"presenter":"Some Schlub"
+            },
+            {
+            	"title":"A session title",
+            	"presenter":"Some Schlub"
+            },
+            {
+            	"title":"A session title",
+            	"presenter":"Some Schlub"
+            }]
+        }
+]
